@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "othermind-be402",
+  "private_key_id": "55dad2dd78885c63293e281e4ca00403ea726be1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrK//OOeybKJ88\nMXB+UtRLit/WL2LjIWe1sv6g3qUfG0WwFxwb2+pvkv3WEKpgXMbB5Tz1+OMOoPSE\nqIAdpI8ZXMCQZL6Ro7sHxO05TKSsel4z8GQ77kfbTWIO5Br4zJOyMNcpnl3JrMMW\nL0q7t7CtEDgoamjy0Azv3069rqNBYYjbf9RkgVKapVXX2bcSBaDqpHtVcyMXV4VR\nLutXGwA6OmanBlBZiut6o1qFibH2HFRz9vEsrPmJQt2c/oiftquMFJ6izNGhtCfZ\nnN9uPbCz+GiaZ8fQWc42iYRyYXUqspWZo9Kounu4YomS1o9FrIi1b2tH5x64+2uZ\nUCbw4g4XAgMBAAECggEAAx4CgxVv9yVmvPhjhZFpl1SYnfRv9xXxJxBy7agQVsAu\n5TWOh/1ZyB1jrQXRrH6UCgzsLsiRDf+lZFMTPjb0ejBDu31yMQHL0qjl7xCzwQZb\nd9OtZ5//xAElQ4Mo8JX9LJYSHQpqx9TzGpDS6hc+yvAMLcQ+VAmw6p9k9jRbecHO\n0XhbaJdW9GBPI8+bMJkHTF+q/P2yTltK4iV7hDfUoeroe6y4LpGb9NtEEsmKQsby\n+adFSgzItJYD+cAYm0dNY4yBPb4Z+xW7EOkA6Qwcma6P/8VRA74mTRZhWiKlX/dJ\nFlKP6gFlalWSBT2vEKjv7CD6lZsDTfCvth1iLcTq9QKBgQDf4O6/4xrUEd41pSH/\nrZE0J3nx1gRh8jf2pVfvnXAMYyCZoDH3NiH880kr3w/qMb8o6bTygwmqv4VQ50G+\n2Ys+fYHNsvR2B16F2QnXnECRzon0Q4NclPKmE47+CF1cj2wrwHeCZA/UOK+DBneR\nB+nJ92lGXyvLI3oG7jEncAB3/QKBgQDDuyVSgXRRxAd4i1vOFcujsbEplZffsv2d\nl33TW24RYyhM9I3PXt6vJxp+AIoSV+Q/d1RYro47gujdTZWsakcqz1H59auWcRsm\nh7D9umO5l21zTX548nB6WD3jt1eIVaMQYXPneQtNJZ1JFRFjMdsSmIIvFFxTDs3v\nfU5WqbjIowKBgHFa86gG9ouQLIHfBdLucAoHPvBbG8b4HKvu1hKGFbi/7D685O+1\n4gmwqUjkXauH2rF9e9gazyc8Z+Up4pkejylp5PJg/PRSEOMWnKwl+m+ZMzKRiI61\nABNk7c7kL1lxaSTSA/DqdzVOKlfeS2YMqqxPcGdoQsVNRjkCG7NLO4GFAoGAIYSv\n7IQcvk/ak6sRyqXy3JJ2a0+h1X4abl1d/87dd37KjPsoOcXeTpJcuA0xl9iTTscJ\nm7Iwy0IszJEXu5HrpAoi2LJYcwflhWChT6IWp9aluKQhr2adGmZ4GsHv7Hn11b1K\nku4ooEp7t+MyuhD0miehy5wp/1M+su97dd3Utg8CgYByF/4aSnNTBifOlDHhAFKB\nqfQ2PouEa6QyT9dYDxxKzs/pULvU49uBYDHQvOflwWuXZo7EI7mBkNdfMJXALx+6\ngQgUtwUwvDcLWZg54E2gDpEPTVQE3X5Uc++3zLrhX1nC/69vWNGPLaUJU7v4doOn\nsXG5tZXVjFzMzcdmgV0Omw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "othermind-be402@appspot.gserviceaccount.com",
+  "client_id": "111058564035136137246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/othermind-be402%40appspot.gserviceaccount.com"
+}
